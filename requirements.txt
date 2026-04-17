@@ -1,6 +1,0 @@
-External Tools and Libraries Used:
-
-requests
-beautifulsoup4
-selenium
-webdriver-manager
