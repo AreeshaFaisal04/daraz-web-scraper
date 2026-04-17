@@ -1,0 +1,5 @@
+External Libraries Used:
+
+selenium==4.21.0
+beautifulsoup4==4.12.2
+webdriver-manager==4.0.1
